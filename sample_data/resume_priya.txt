@@ -1,0 +1,42 @@
+Priya Mehta
+Email: priya.mehta@gmail.com | GitHub: github.com/priyamehta
+
+PROFESSIONAL SUMMARY
+Passionate Machine Learning Engineer with strong foundations in Python, deep learning, and NLP.
+Experienced in deploying end-to-end ML pipelines and working with large datasets.
+
+CORE SKILLS
+- Machine Learning & AI: Scikit-learn, TensorFlow, PyTorch, Keras, XGBoost
+- NLP: NLTK, SpaCy, Hugging Face Transformers, TF-IDF, Word2Vec, BERT
+- Python Programming: NumPy, Pandas, Matplotlib, Seaborn, Flask, FastAPI
+- Data Engineering: SQL, Apache Spark (basic), data preprocessing, feature engineering
+- MLOps: Docker, Git, MLflow, model deployment on AWS SageMaker
+- Soft Skills: Problem solving, Team collaboration, Technical documentation
+
+EXPERIENCE
+Machine Learning Engineer — AI Startup (Jun 2022 – Present)
+- Designed and deployed NLP models for sentiment analysis achieving 91% accuracy
+- Built named entity recognition (NER) pipelines using SpaCy and Hugging Face
+- Created TF-IDF based document similarity system for internal knowledge base
+- Maintained ML model performance using MLflow tracking and Docker containers
+
+Data Science Intern — Analytics Hub (Dec 2021 – May 2022)
+- Preprocessed and cleaned large datasets (100K+ records) using Pandas
+- Built classification models and evaluated using cross-validation
+- Presented weekly reports and data insights to stakeholders
+
+EDUCATION
+B.Tech in Artificial Intelligence — PQR Institute of Technology (2018–2022) | CGPA: 9.1/10
+
+PROJECTS
+1. NLP Text Classifier — Multi-class text classification using BERT fine-tuning with 93% accuracy
+2. Real-time Fraud Detection — Random Forest + XGBoost ensemble model deployed on AWS
+3. Chatbot for HR Queries — NLP-based chatbot using NLTK, TF-IDF, and cosine similarity
+
+PUBLICATIONS
+- "A Comparative Study of NLP Techniques for Resume Screening" — IEEE Conference 2023
+
+CERTIFICATIONS
+- Deep Learning Specialization — Coursera (Andrew Ng)
+- NLP with Python — Udemy
+- AWS Certified Cloud Practitioner

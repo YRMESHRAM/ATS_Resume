@@ -1,0 +1,48 @@
+ALICE SHARMA
+Email: alice.sharma@email.com | Phone: +91-9876543210
+Location: Pune, Maharashtra
+
+OBJECTIVE
+Motivated software developer with 2 years of experience seeking a Python Developer role
+to apply skills in machine learning and data analysis.
+
+EDUCATION
+B.Tech in Computer Science Engineering
+Pune Institute of Technology, 2022 | CGPA: 8.5
+
+TECHNICAL SKILLS
+Programming Languages: Python, Java, C++
+Frameworks & Libraries: Django, Flask, NumPy, Pandas, Scikit-learn, TensorFlow
+Databases: MySQL, MongoDB, PostgreSQL
+Tools: Git, Docker, Linux, Jupyter Notebook
+Cloud: AWS (EC2, S3), Google Cloud Platform
+
+WORK EXPERIENCE
+Junior Python Developer | TechSoft Solutions, Pune (Jan 2023 - Present)
+- Developed RESTful APIs using Flask and Django for data-driven web applications
+- Implemented machine learning models for customer churn prediction using Scikit-learn
+- Performed data analysis and visualization using Pandas and Matplotlib
+- Collaborated in Agile teams using Git for version control
+- Deployed applications on AWS using Docker containers
+
+Data Analysis Intern | DataMinds Pvt Ltd, Pune (Jun 2022 - Dec 2022)
+- Analyzed large datasets using Python and Pandas to extract business insights
+- Built automated reports using Excel and Python scripts
+- Created data dashboards using Power BI
+
+PROJECTS
+1. Customer Sentiment Analysis
+   - Built NLP model using NLTK and Scikit-learn to classify customer reviews
+   - Achieved 89% accuracy using SVM classifier
+
+2. Sales Prediction System
+   - Developed regression model using Python and Scikit-learn
+   - Used feature engineering and cross-validation techniques
+
+CERTIFICATIONS
+- Python for Data Science - Coursera (2022)
+- Machine Learning Fundamentals - NPTEL (2022)
+- AWS Certified Cloud Practitioner (2023)
+
+SOFT SKILLS
+Problem-solving, Team collaboration, Communication, Attention to detail

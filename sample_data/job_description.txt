@@ -1,0 +1,40 @@
+Job Title: Machine Learning Engineer
+
+Company: InnovateTech Pvt. Ltd.
+Location: Bangalore, India
+Experience: 1-3 Years
+
+JOB DESCRIPTION
+We are looking for a skilled Machine Learning Engineer who is passionate about building intelligent systems. The ideal candidate should have strong expertise in Python and hands-on experience with machine learning and NLP frameworks.
+
+RESPONSIBILITIES
+- Design, develop, and deploy machine learning models for real-world applications
+- Build NLP pipelines for tasks like text classification, named entity recognition, and document similarity
+- Preprocess and analyze large datasets using Python (Pandas, NumPy)
+- Implement and evaluate ML models using Scikit-learn, TensorFlow, or PyTorch
+- Write clean, modular, and well-documented Python code
+- Collaborate with data engineers and backend teams
+- Monitor and maintain deployed machine learning models
+
+REQUIRED SKILLS
+- Strong programming skills in Python
+- Experience with machine learning libraries: Scikit-learn, TensorFlow, Keras
+- Knowledge of NLP techniques: TF-IDF, tokenization, stopword removal, stemming, lemmatization
+- Familiarity with NLP tools: NLTK, SpaCy, Hugging Face
+- Experience with data manipulation using Pandas and NumPy
+- Understanding of cosine similarity, word embeddings, and text vectorization
+- Version control using Git
+- Basic knowledge of Docker and cloud platforms (AWS or GCP)
+
+NICE TO HAVE
+- Experience with BERT or transformer-based models
+- Knowledge of MLflow for experiment tracking
+- Publications or research in NLP/ML domain
+
+EDUCATION
+- B.Tech/B.E./M.Tech in Computer Science, AI, or related field
+
+WHAT WE OFFER
+- Competitive salary
+- Work from home flexibility
+- Learning and development opportunities

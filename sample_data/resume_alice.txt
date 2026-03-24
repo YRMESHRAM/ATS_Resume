@@ -1,0 +1,35 @@
+Alice Johnson
+Email: alice@email.com | Phone: 9876543210 | LinkedIn: linkedin.com/in/alicejohnson
+
+OBJECTIVE
+Enthusiastic Python Developer with 2 years of experience seeking a Machine Learning Engineer role.
+
+SKILLS
+Programming Languages: Python, Java, SQL
+Libraries & Frameworks: NumPy, Pandas, Scikit-learn, TensorFlow, Keras, Flask
+Tools: Git, Docker, Jupyter Notebook, VS Code
+Databases: MySQL, MongoDB
+Other: Machine Learning, Data Analysis, Natural Language Processing, REST APIs
+
+EXPERIENCE
+Junior Data Analyst — TechSoft Solutions (Jan 2022 – Present)
+- Developed Python scripts to automate data cleaning and preprocessing pipelines
+- Built and trained machine learning models using Scikit-learn for customer churn prediction
+- Performed data analysis and visualization using Pandas and Matplotlib
+- Collaborated with team using Git version control
+
+Python Intern — DataBridge Inc. (Jun 2021 – Dec 2021)
+- Assisted in building NLP models for text classification
+- Wrote SQL queries to extract and transform data from MySQL databases
+
+EDUCATION
+B.Tech in Computer Science — XYZ University (2018–2022) | CGPA: 8.4/10
+
+PROJECTS
+1. Resume Screening System — Built an NLP-based ATS using TF-IDF and cosine similarity in Python
+2. Customer Churn Prediction — Logistic Regression model with 87% accuracy using Scikit-learn
+3. Movie Recommendation System — Collaborative filtering using Python and Pandas
+
+CERTIFICATIONS
+- Python for Data Science — Coursera
+- Machine Learning by Andrew Ng — Coursera

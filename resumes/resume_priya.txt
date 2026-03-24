@@ -1,0 +1,51 @@
+PRIYA JOSHI
+Email: priya.joshi@email.com | Phone: +91-9911223344
+Location: Nagpur, Maharashtra
+
+OBJECTIVE
+Creative frontend developer with expertise in building responsive and user-friendly
+web interfaces, looking for opportunities in UI/UX development.
+
+EDUCATION
+B.E. in Information Technology
+RCOEM Nagpur, 2022 | CGPA: 7.9
+
+SKILLS
+Frontend: HTML5, CSS3, JavaScript, ReactJS, Bootstrap, Tailwind CSS
+Backend (Basic): Node.js, Express.js
+Version Control: Git, GitHub
+Design Tools: Figma, Adobe XD, Canva
+Testing: Jest, React Testing Library
+Database: Firebase, basic MySQL
+
+WORK EXPERIENCE
+Frontend Developer | WebPixel Agency, Nagpur (Aug 2022 - Present)
+- Developed responsive web applications using ReactJS and Tailwind CSS
+- Collaborated with UX designers to translate wireframes into working interfaces
+- Optimized website performance achieving 95+ PageSpeed score
+- Maintained cross-browser compatibility across Chrome, Firefox, Safari
+
+Freelance Web Developer (Jan 2022 - Jul 2022)
+- Built e-commerce websites for local businesses using React and Firebase
+- Designed UI prototypes in Figma and converted to code
+
+PROJECTS
+1. E-Commerce Dashboard
+   - Built admin dashboard using React, Redux, and Chart.js
+   - Implemented REST API integration with axios
+
+2. Portfolio Website Builder
+   - Developed drag-and-drop portfolio generator using ReactJS
+   - Deployed on Netlify with CI/CD pipeline
+
+3. College Event Management System
+   - Full-stack project using React frontend and Node.js backend
+   - Used MySQL for data storage
+
+CERTIFICATIONS
+- Frontend Web Development - freeCodeCamp (2021)
+- React Developer Certification - Udemy (2022)
+- Figma UI/UX Design - Coursera (2022)
+
+INTERESTS
+UI Animation, Accessibility Design, Open Source Contribution

@@ -1,0 +1,50 @@
+RAHUL MEHTA
+Email: rahul.mehta@email.com | Phone: +91-9823456789
+Location: Mumbai, Maharashtra
+
+CAREER OBJECTIVE
+Recent graduate with strong analytical background, eager to contribute to data science
+and machine learning projects. Passionate about turning data into actionable insights.
+
+EDUCATION
+M.Sc. in Data Science
+Mumbai University, 2023 | Percentage: 78%
+
+B.Sc. in Statistics
+Mumbai University, 2021 | Percentage: 82%
+
+TECHNICAL SKILLS
+Languages: Python, R, SQL
+Python Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+Machine Learning: Linear Regression, Decision Trees, Random Forest, Clustering
+Deep Learning: Basic knowledge of Neural Networks, Keras
+NLP: Text preprocessing, TF-IDF, Word2Vec (basic)
+Tools: Tableau, Power BI, Excel, SPSS, Jupyter
+
+PROJECTS
+1. Movie Recommendation System
+   - Built collaborative filtering-based recommendation engine using Python
+   - Used cosine similarity and matrix factorization techniques
+
+2. Weather Prediction using Machine Learning
+   - Applied regression algorithms (Linear, Ridge, Lasso) using Scikit-learn
+   - Performed EDA using Pandas and Seaborn
+   - Achieved 82% accuracy on test data
+
+3. Twitter Sentiment Analysis
+   - Scraped Twitter data and preprocessed using NLTK
+   - Built classification model using Logistic Regression
+   - Accuracy: 85%
+
+INTERNSHIP
+Data Science Intern | Analytics Hub, Mumbai (Mar 2023 - Jul 2023)
+- Cleaned and preprocessed datasets using Pandas and SQL queries
+- Built dashboards in Tableau for business stakeholders
+- Assisted senior data scientists in model building and evaluation
+
+CERTIFICATIONS
+- Data Science with Python - edX (2022)
+- SQL for Data Analysis - Udemy (2023)
+
+LANGUAGES
+English (Fluent), Hindi (Native), Marathi (Native)

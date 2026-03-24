@@ -1,0 +1,37 @@
+Bob Sharma
+Email: bob@email.com | Phone: 9123456780
+
+SUMMARY
+Creative Frontend Developer with 3 years of experience in building responsive web applications.
+
+TECHNICAL SKILLS
+Languages: HTML, CSS, JavaScript, PHP, Python (basic)
+Frameworks: React.js, Node.js, Express.js, Bootstrap
+Tools: Git, Webpack, Figma, Postman
+Database: MySQL, Firebase
+
+WORK EXPERIENCE
+Frontend Developer — WebCraft Agency (Mar 2021 – Present)
+- Designed and developed 15+ responsive websites using React.js and Bootstrap
+- Integrated REST APIs with JavaScript and Axios
+- Collaborated with UI/UX designers using Figma
+- Managed deployment on AWS EC2 and Heroku
+
+Web Development Intern — CreativeSoft (Jan 2021 – Mar 2021)
+- Built static websites using HTML and CSS
+- Worked with PHP and MySQL for backend functionality
+
+EDUCATION
+B.Sc in Information Technology — ABC College (2017–2021) | CGPA: 7.9/10
+
+PROJECTS
+1. E-Commerce Website — Full-stack project using React, Node.js, MongoDB, and Stripe API
+2. Portfolio Website Builder — Drag and drop tool using vanilla JavaScript
+3. Weather Dashboard — Fetches live data using OpenWeatherMap API in JavaScript
+
+CERTIFICATIONS
+- Full Stack Web Development — Udemy
+- JavaScript Algorithms — freeCodeCamp
+
+INTERESTS
+Web design, Open Source contribution, Blogging about tech
