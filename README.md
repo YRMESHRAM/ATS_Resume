@@ -1,6 +1,6 @@
 # 🧑‍💼 Mini ATS — Resume Screening System (NLP Project)
 
-**Subject:** Text Processing / Natural Language Processing  
+**Subject:** Text Processing   
 **Python Libraries:** `scikit-learn`, `pandas`, `re`, `PyPDF2` (optional), `streamlit` (optional)
 
 ---
@@ -24,13 +24,7 @@ ats_project/
 
 ## 🚀 How to Run
 
-### Option 1: Command Line
-```bash
-pip install scikit-learn pandas PyPDF2
-python ats_system.py
-```
-
-### Option 2: Streamlit Web App
+###  Streamlit Web App
 ```bash
 pip install scikit-learn pandas PyPDF2 streamlit
 streamlit run streamlit_app.py
@@ -98,50 +92,6 @@ similarity = (A · B) / (||A|| × ||B||)
 
 ---
 
-## 📊 Sample Output
-
-```
-============================================================
-   MINI ATS — RESUME SCREENING SYSTEM
-============================================================
-
-📄 Loading Job Description: job_description.txt
-   ✔ Job Skills Found: 25
-
-📁 Loading 3 Resume(s)...
-   ✔ Loaded: resume_alice.txt
-   ✔ Loaded: resume_bob.txt
-   ✔ Loaded: resume_priya.txt
-
-⚙  Computing TF-IDF Vectors and Cosine Similarity...
-
-============================================================
-   📊 SCREENING RESULTS (Ranked by Match Score)
-============================================================
-
-🏆 Rank #1 — resume_priya.txt
-   Match Score : 52.03%
-   Skills Found: aws, bert, cosine similarity, deep learning, docker, ...
-   Common Skills with JD: aws, bert, cosine similarity, docker, keras, ...
-
-🏆 Rank #2 — resume_alice.txt
-   Match Score : 47.95%
-   Skills Found: cosine similarity, data analysis, git, keras, ...
-   Common Skills with JD: cosine similarity, docker, git, keras, ...
-
-🏆 Rank #3 — resume_bob.txt
-   Match Score : 12.63%
-   Skills Found: api, aws, bootstrap, css, git, html, javascript, ...
-   Common Skills with JD: aws, git, python
-
-🎯 TOP 3 CANDIDATES:
-   1. resume_priya.txt  [██████████░░░░░░░░░░] 52.03%
-   2. resume_alice.txt  [█████████░░░░░░░░░░░] 47.95%
-   3. resume_bob.txt    [██░░░░░░░░░░░░░░░░░░] 12.63%
-```
-
----
-
 ## 🔑 Key Concepts Summary (For Viva)
 
 | Concept | Definition |
@@ -167,4 +117,4 @@ streamlit>=1.20 (optional, for web interface)
 
 ---
 
-*Submitted as part of Text Processing (NLP) Subject — College Practical*
+*Submitted as part of Text Processing Subject — College Practical*
